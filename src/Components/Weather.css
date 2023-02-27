@@ -1,0 +1,15 @@
+.errorforinvalidname{
+    color: #ffff;
+    background-color: red;
+    border: 1px solid red;
+}
+.display{
+    border: 1px solid ;
+
+}
+body{
+    background-color: antiquewhite;
+}
+.heading{
+    color: blue;
+}
